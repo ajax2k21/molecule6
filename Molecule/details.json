@@ -1,0 +1,39 @@
+{
+        "columnNames": [
+            "LillySerialNumber",
+            "MolecularFormula",
+            "MolecularWeight",
+            "Molecule"
+        ],
+    
+        "columnLabels": [
+            "LillySerialNumber",
+            "MolecularFormula",
+            "MolecularWeight",
+            "Molecule"   
+        ],
+        "columnDataTypes": [
+            "Integer",
+            "String",
+            "Double",
+            "string"
+        ],
+
+        "rows": [
+              {
+                "data":
+                []
+              }
+                ],
+        "truncated": false,        
+        "isSuccess": true,
+        "executionLog": "",
+        "errorLog": "",
+        "jobDierectory": "",
+        "size": 1603,
+        "cacheHit": false
+}
+   
+
+
+        
